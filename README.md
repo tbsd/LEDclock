@@ -1,6 +1,8 @@
 # LEDclock
 Clock made with a LED strip on Arduino platform.  
 
+![demo gif](https://github.com/tbsd/LEDclock/raw/main/clock_demo.gif)
+
 Clock made of a LED strip bent in circle so the beginning of the strip is at 6:00. 
 
 Features: 
